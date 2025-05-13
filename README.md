@@ -1,7 +1,7 @@
 ## EXP-01 Cloud account setup and services overview in AWS
-DEVELOPED BY:VIMALA RANI A
+DEVELOPED BY:SAI SANJAY R
 
-REG NO:212223040240
+REG NO:212223040178
 # Aim:
 To create an cloud account in AWS and to explore all of its services. 
 # Procedure
